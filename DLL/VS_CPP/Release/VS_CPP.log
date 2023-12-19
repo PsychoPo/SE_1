@@ -1,0 +1,8 @@
+﻿  pch.cpp
+  dllmain.cpp
+     Creating library C:\Users\whoami\source\repos\VS_CPP\Release\VS_CPP.lib and object C:\Users\whoami\source\repos\VS_CPP\Release\VS_CPP.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  VS_CPP.vcxproj -> C:\Users\whoami\source\repos\VS_CPP\Release\VS_CPP.dll
