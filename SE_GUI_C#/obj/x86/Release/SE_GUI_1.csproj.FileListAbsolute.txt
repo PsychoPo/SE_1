@@ -1,0 +1,11 @@
+C:\Users\whoami\source\repos\SE_GUI_1\bin\x86\Release\SE_GUI_1.exe.config
+C:\Users\whoami\source\repos\SE_GUI_1\bin\x86\Release\SE_GUI_1.exe
+C:\Users\whoami\source\repos\SE_GUI_1\bin\x86\Release\SE_GUI_1.pdb
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.csproj.AssemblyReference.cache
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.csproj.SuggestedBindingRedirects.cache
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.Properties.Resources.resources
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.csproj.GenerateResource.cache
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.csproj.CoreCompileInputs.cache
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.exe
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.pdb
+C:\Users\whoami\source\repos\SE_GUI_1\obj\x86\Release\SE_GUI_1.Form1.resources
